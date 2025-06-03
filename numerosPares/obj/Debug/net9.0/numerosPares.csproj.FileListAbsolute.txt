@@ -34,3 +34,4 @@ C:\Users\Lenovo\ApiNumeros\numerosPares\obj\Debug\net9.0\ref\numerosPares.dll
 C:\Users\Lenovo\ApiNumeros\numerosPares\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Lenovo\ApiNumeros\numerosPares\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Lenovo\ApiNumeros\numerosPares\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\ApiNumeros\numerosPares\obj\Debug\net9.0\numerosPares.sourcelink.json
